@@ -17,3 +17,6 @@ def initializeStudents():
     student = ["Cheaney", "Calbert", "M04435987", "Computer Science"]
     data.append(student)
     return data
+
+if __name__ == "__main__":
+    print(initializeStudents())
