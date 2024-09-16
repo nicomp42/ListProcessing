@@ -10,4 +10,6 @@ if __name__ == "__main__":
     # Print the data type of students
     # Print the elements of the list one-at-a-time with a for/in loop
     # Add an element to the list (another student)
+    # Apply List Comprehension
+    # Search the list
     
