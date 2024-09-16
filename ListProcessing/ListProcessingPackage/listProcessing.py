@@ -14,4 +14,6 @@ def initializeStudents():
     data.append(student)
     student = ["Burlew", "Cecelia", "M02635987", "BANA"]
     data.append(student)
+    student = ["Cheaney", "Calbert", "M04435987", "Computer Science"]
+    data.append(student)
     return data
